@@ -19,7 +19,4 @@ Desenvolvedor em formação, focado na construção de sistemas robustos e efici
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_pedrohenriquea) 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](#)
 
-## **GitHub Stats:**
-![](https://github-readme-stats.vercel.app/api?username=ArrudaPedro&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ArrudaPedro&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArrudaPedro&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
