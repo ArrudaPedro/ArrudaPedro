@@ -1,8 +1,8 @@
-# Olá, sou o Pedro! 👋
+# Hey, i'm Pedro! 👋
 
 # **About me:**
 
-Desenvolvedor em formação, focado na construção de sistemas robustos e eficientes, atualmente utilizando a Stack **Python(FastApi)** e **PostGreSQL**. Buscando constantemente aprender novas ferramentas e boas práticas de engenharia de software. Aberto a colaborações, desafios técnicos e conversas sobre tecnologia.
+Software developer in training, focused on building robust and efficient systems, currently working on **Python (FastApi)** and **PostGreSQL** stack. **OffSec** and **CyberSecurity** enthusiast.
 
 # **Tech Stack:**
 
