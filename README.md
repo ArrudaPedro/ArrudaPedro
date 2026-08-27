@@ -2,7 +2,7 @@
 
 # **About me:**
 
-Software developer in training, focused on building robust and efficient systems, currently working on **Python (FastApi)** and **PostGreSQL** stack. **OffSec** and **CyberSecurity** enthusiast.
+Software developer in training, focused on building robust and efficient systems, currently working on **Python (FastApi)** and **PostGreSQL** stack. **OffSec**, **CyberSecurity** and **Finance** enthusiast.
 
 # **Tech Stack:**
 
